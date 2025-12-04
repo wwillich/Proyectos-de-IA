@@ -27,19 +27,19 @@ Los siguientes proyectos fueron desarrollados en el marco del cursado de la mate
 * **Descripción:** Modelo de clasificación de imágenes basado en **Transfer Learning** (Xception) para identificar tipos de vehículos.
 * **Puntos Clave:** Uso de **Keras3** y **TensorFlow** ejecutado desde R mediante `reticulate`.Implementación de **Early Stopping** y **Reduce Learning Rate On Plateau** para lograr una alta precisión (~98.5% en validación) con entrenamiento optimizado.
 * **Estado:** Completado y desplegado en una interfaz Shiny (R).
-* **[Acceder al proyecto/código](<./Identificador_Vehiculos>)** (Sugerencia: crea una carpeta con este nombre en tu repositorio)
+* **[Acceder al proyecto/código](<./Identificador_Vehiculos>)** 
 
 ### 2. Chatbot del Clima (PLN y Desarrollo de Interfaz)
 * **Descripción:** Chatbot conversacional implementado en Python con el framework **Flet**, que proporciona información climática en tiempo real.
 * **Puntos Clave:** Procesamiento de lenguaje natural simple basado en palabras clave y "gatillos" para la extracción de ciudades. Integración con la **OpenWeather API** y técnicas de UX como `auto_scroll` e indicador de escritura para una conversación fluida y natural.
 * **Estado:** Completado y funcional.
-* **[Acceder al proyecto/código](<./Chatbot_Clima>)** (Sugerencia: crea una carpeta con este nombre en tu repositorio)
+* **[Acceder al proyecto/código](<./Chatbot_Clima>)** 
 
 ### 3. Generador de Etiquetas (Redes Generativas Antagónicas - GAN)
 * **Descripción:** Experimentación con una **Red Generativa Antagónica (GAN)** para producir imágenes sintéticas de etiquetas (vino, cerveza, café).
 * **Puntos Clave:** Implementación de una arquitectura **WGAN-GP** (Wasserstein GAN con Penalización de Gradiente) en **PyTorch**. Demuestra conocimiento en técnicas avanzadas de entrenamiento (Distancia de Wasserstein) para estabilidad en modelos generativos y uso de precisión mixta para optimización de recursos en la GPU.
 * **Estado:** Modelo base entrenado con arquitectura funcional, lista para escalado.
-* **[Acceder al proyecto/código](<./Generador_Etiquetas_GAN>)** (Sugerencia: crea una carpeta con este nombre en tu repositorio)
+* **[Acceder al proyecto/código](<./Generador_Etiquetas_GAN>)** 
 
 ## Contacto
 
